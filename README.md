@@ -57,7 +57,7 @@ I'm a 15 year old, self thaught developer, currently on my 2nd year of computer 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="50 height="50>
 </a>
  
-<a href="">
+<a href="https://twitter.com/itzJoJax1">
  <img src="https://upload.wikimedia.org/wikipedia/it/archive/0/09/20160903181541%21Twitter_bird_logo.png" width="50 height="50>
 </a>
 
