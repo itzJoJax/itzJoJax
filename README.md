@@ -6,7 +6,7 @@
 
 <p align="center">
 
-I'm a 15 year old, self taught developer, currently on my 2nd year of computer science school, from Italy. I've always been fascinated by technology since i was a little kid, and in 5th grade i started getting into coding. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development and working on my Discord Bot.
+I'm a 15 year old, self-taught developer, currently on my 2nd year of computer science school, from Italy. I've always been fascinated by technology since i was a little kid, and in 5th grade i started getting into coding. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development and working on my Discord Bot.
 
 </p>
 
